@@ -5,7 +5,7 @@
 ### 🛠 What I do:
 - 🧩 **Project Manager** by day — Controller of Chaos™ with 8+ years wrangling timelines, stakeholders, and systems into submission
 - 🔍 **Problem-solver** who thrives in fast-paced environments and gets things done with a smile (and a spreadsheet)
-- 🛠 Skilled in Agile, Waterfall, ClickUp, Jira, Notion, and the occasional interpretive dance of communication
+- 🛠 Skilled in Agile, ClickUp, Jira, Monday, and the occasional interpretive dance of communication (but only in the Old Navy dressing room)
 
 ### 📚 What I love:
 - Books, books, books — from business strategy to cozy mysteries
