@@ -21,13 +21,13 @@ I'm your gal. 🤓
 
 ---
 
+📫 **Find me elsewhere:**  
+[LinkedIn](https://www.linkedin.com/in/brenda-daun/)   
+
+<!-- This is a comment and will not show up in the rendered Markdown -->
+
 ### 📊 GitHub Stats
 
 ![Brenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-📫 **Find me elsewhere:**  
-[LinkedIn](https://www.linkedin.com/in/brenda-daun/)   
