@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brenda!
 
-## 🧠 Project Manager | 📚 Bookworm | 🎬 Media Maven
+## 🧠 Project Manager | 📚 Bookworm | ✍️ Technical & Creative Writer  
 
 ### 🛠 What I do:
 - 🧩 **Project Manager** by day — Controller of Chaos™ with 8+ years wrangling timelines, stakeholders, and systems into submission
@@ -8,7 +8,7 @@
 - 🛠 Skilled in Agile, ClickUp, Jira, Monday, and the occasional interpretive dance of communication (but only in the Old Navy dressing room)
 
 ### 📚 What I love:
-- Books, books, books — from business strategy to cozy mysteries
+- Books, books, books — from business strategy to fantasy and YA 
 - Pop culture deep dives (yes, I *do* have thoughts on which American Girl doll you're most like)
 - Media binging at Olympic levels — if it's got a plot, I'm already watching, reading, or analyzing it
 
@@ -21,7 +21,13 @@ I'm your gal. 🤓
 
 ---
 
-📬 **Find me elsewhere:**  
-📫 [LinkedIn](https://www.linkedin.com/in/yourname)  
-📸 [Instagram](https://www.instagram.com/yourhandle) – for bookish vibes  
-🧠 [More Lit Than Netherfield](https://yourbooksite.com) – my site for literary recommendations and media musings  
+### 📊 GitHub Stats
+
+![Brenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+📫 **Find me elsewhere:**  
+[LinkedIn](https://www.linkedin.com/in/brenda-daun/)   
