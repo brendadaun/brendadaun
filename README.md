@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brenda!
 
-## 🧠 Project Manager | 📚 Bookworm | ✍️ Technical & Creative Writer  
+## 🧠 Chaos Manager | 📚 Bookworm | ✍️ Storyteller
 
 ### 🛠 What I do:
 - 🧩 **Project Manager** by day — Controller of Chaos™ with 8+ years wrangling timelines, stakeholders, and systems into submission
